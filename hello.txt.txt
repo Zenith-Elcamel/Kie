@@ -1,2 +1,4 @@
 Hello Git and GitHub!
 This is my first Git practice activity.
+
+I learned how to create a branch, commit changes, and create a pull request.
